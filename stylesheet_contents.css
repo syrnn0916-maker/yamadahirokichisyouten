@@ -1,0 +1,37 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    height:auto;
+}
+header {
+    height:25%;
+    font-size:300%;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+}
+
+header h1 {
+    margin:auto;
+}
+
+main ul {
+    height:60%;
+    font-size:300%;
+    margin:0 auto;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+}
+
+main ul li {
+    margin:auto;
+}
